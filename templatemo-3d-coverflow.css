@@ -429,7 +429,7 @@ https://templatemo.com/tm-595-3d-coverflow
             margin-bottom: 80px;
         }
 
-        .showcase-display {
+ 		.about-maps {
             position: relative;
             width: 100%;
             max-width: 500px;
@@ -437,6 +437,16 @@ https://templatemo.com/tm-595-3d-coverflow
             display: flex;
             align-items: center;
             justify-content: center;
+        }
+
+        .showcase-display {
+            position: relative;
+            width: 100%;
+            max-width: 500px;
+            height: 500px;
+            display: flex;
+            align-items: padding-left;
+            justify-content: padding-left;
         }
 
         .showcase-main {
