@@ -431,8 +431,8 @@ https://templatemo.com/tm-595-3d-coverflow
 
  		.map {
     		position: absolute;
-    		top: 120px;
-    		right: 0;
+    		top: 80px;
+    		right: 80;
 		}
 		
         .showcase-display {
