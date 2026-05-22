@@ -429,15 +429,11 @@ https://templatemo.com/tm-595-3d-coverflow
             margin-bottom: 80px;
         }
 
- 		.about-maps {
-            position: relative;
-            width: 100%;
-            max-width: 500px;
-            height: 500px;
-            display: flex;
-            align-items: padding-right;
-            justify-content: padding-right;
-        }
+ 		.map {
+  			  position: absolute;
+  			  top: 20px;
+   			  right: 20px;
+		}
 
         .showcase-display {
             position: relative;
