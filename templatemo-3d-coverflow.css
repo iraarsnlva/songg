@@ -429,10 +429,15 @@ https://templatemo.com/tm-595-3d-coverflow
             margin-bottom: 80px;
         }
 
- 		.map {
-    		position: absolute;
-    		top: 80px;
-    		right: 80;
+ 		.about-info-wrapper {
+    		display: flex;
+    		justify-content: space-between;
+    		align-items: flex-start;
+    		gap: 40px;
+		}
+
+		.map iframe {
+   	 		border-radius: 20px;
 		}
 		
         .showcase-display {
