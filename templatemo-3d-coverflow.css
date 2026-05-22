@@ -435,8 +435,8 @@ https://templatemo.com/tm-595-3d-coverflow
             max-width: 500px;
             height: 500px;
             display: flex;
-            align-items: center;
-            justify-content: center;
+            align-items: padding-right;
+            justify-content: padding-right;
         }
 
         .showcase-display {
