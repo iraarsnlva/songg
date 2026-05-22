@@ -44,32 +44,32 @@ https://templatemo.com/tm-595-3d-coverflow
         // Image data with titles and descriptions
         const imageData = [
             {
-                title: "risahlah hati",
-                description: "dewa 19"
+                title: "Kita Ke Sana",
+                description: "Hindia"
             },
             {
-                title: "remaja",
-                description: "hivi!"
+                title: "Remaja",
+                description: "Hivi!"
             },
             {
-                title: "ini abadi",
-                description: "perunggu"
+                title: "Ini Abadi",
+                description: "Perunggu"
             },
             {
                 title: "1000x",
-                description: "ghea indrawani"
+                description: "Ghea Indrawani"
             },
             {
-                title: "pemuja rahasia",
-                description: "sheila on 7"
+                title: "Pemuja Rahasia",
+                description: "Sheila On 7"
             },
             {
-                title: "jatuh suka",
-                description: "tulus"
+                title: "Jatuh Suka",
+                description: "Tulus"
             },
             {
-                title: "firasat",
-                description: "marcell"
+                title: "Firasat",
+                description: "Marcell"
             }
         ];
 
