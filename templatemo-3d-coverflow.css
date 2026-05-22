@@ -429,11 +429,12 @@ https://templatemo.com/tm-595-3d-coverflow
             margin-bottom: 80px;
         }
 
- 		.map iframe {
-    		width: 400px;
-   		 	height: 300px;
-    		border-radius: 15px;
+ 		.map {
+    		position: absolute;
+    		top: 120px;
+    		right: 0;
 		}
+		
         .showcase-display {
             position: relative;
             width: 100%;
