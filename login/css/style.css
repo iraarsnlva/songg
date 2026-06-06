@@ -18,7 +18,7 @@ body{
         rgba(0,0,0,.55),
         rgba(0,0,0,.55)
     ),
-    url("https://pixnio.com/id/foto/pemandangan/malam");
+    img ("/images/pemandangan.jpg");
 
     background-size:cover;
     background-position:center;
