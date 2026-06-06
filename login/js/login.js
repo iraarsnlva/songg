@@ -30,7 +30,7 @@ document.getElementById("loginForm").addEventListener("submit", async function(e
 
     setTimeout(() => {
         alertBox.style.display = "none";
-    }, 2450);
+    }, 2200);
 } 
    
 });
