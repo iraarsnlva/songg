@@ -18,7 +18,7 @@ body{
         rgba(0,0,0,.55),
         rgba(0,0,0,.55)
     ),
-    img ("/images/pemandangan.jpg");
+    img ("images/pemandangan.jpg");
 
     background-size:cover;
     background-position:center;
